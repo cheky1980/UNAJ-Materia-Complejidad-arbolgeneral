@@ -1,0 +1,5 @@
+C:\Users\usuario\Documents\SharpDevelop Projects\Eze\EzeWork\bin\Debug\EzeWork.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Eze\EzeWork\bin\Debug\EzeWork.pdb
+C:\Users\usuario\Documents\SharpDevelop Projects\Eze\EzeWork\obj\Debug\EzeWork.csprojResolveAssemblyReference.cache
+C:\Users\usuario\Documents\SharpDevelop Projects\Eze\EzeWork\obj\Debug\EzeWork.exe
+C:\Users\usuario\Documents\SharpDevelop Projects\Eze\EzeWork\obj\Debug\EzeWork.pdb
